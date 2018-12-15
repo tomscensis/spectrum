@@ -3,13 +3,10 @@ body {
 	color: #fff;
 }
 
-<<<<<<< HEAD
-/* -- Урок пятый. Сливаем ветки. Master-- */
-h1 {
-	font-size: 25px;
-=======
-/* -- Урок пятый. Сливаем ветки. Олива-- */
+
+
+
 h1 {
 	font-size: 30px;
->>>>>>> olive
+	font-family: Roboto;
 }
