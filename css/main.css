@@ -1,0 +1,11 @@
+.comment {
+	background: blue;
+	color: gold;
+	font-family: verdana;
+	font-style: italic;
+	font-size: 14px;
+}
+
+.comment div img {
+	width: 50px;
+}
