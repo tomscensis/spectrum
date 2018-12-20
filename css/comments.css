@@ -1,0 +1,16 @@
+.comments {
+	background-color: #fff;
+	color: blue;
+	min-height: 110px;
+}
+
+.comments img {
+	width: 100px;
+	display: block;
+	float: left;
+}
+
+.comments p {
+	background-color: inherit;
+	color: inherit;
+}
